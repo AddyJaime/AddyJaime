@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![text alt](https://t4.ftcdn.net/jpg/01/12/22/67/360_F_112226742_1EEoC12dd6f9zST6qCFG3nBrPd4ciwZZ.jpg)
+![text alt](https://as2.ftcdn.net/v2/jpg/02/37/25/15/1000_F_237251556_kLzmeshyTOQzieXdJDJErcJ448IdaufB.jpg)
 
 <!--
 **AddyJaime/AddyJaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
