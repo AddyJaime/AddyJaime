@@ -2,13 +2,11 @@
 ### Hey there! 👋 I'm Addy Jaime, nice to meet you!
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-🌟 I am currently a Freelance Mobile and Web Developer, building solutions for iOS and Android platforms.\
-💡 Passionate about exploring new technologies and creating innovative software solutions and quick hacks.\
-🎓 Currently pursuing a React Native Specialization by Meta to enhance my skills in mobile development.\
-🌱 Actively learning and improving my knowledge in UI/UX Design, Data Structures and Algorithms, and System Design.\
-🏋️‍♂️ In my free time, I enjoy working out, exploring new places, and reading about technology trends.
-
+🌟 Freelance Mobile and Web Developer with experience building solutions for iOS and Android platforms using modern technologies.
+💡 Passionate about creating innovative software solutions, exploring new technologies, and developing practical tools for real-world problems.
+🎓 Currently pursuing a React Native Specialization by Meta to enhance my expertise in mobile app development. I'm also working on Milo, a cross-platform app designed to help users learn Spanish and French, inspired by my wife's language learning journey and our cat, Milo.
+🌱 Dedicated to improving my knowledge of UI/UX Design, Data Structures and Algorithms, and System Design to deliver efficient and user-friendly applications.
+🏋️‍♂️ Outside of work, I enjoy working out, exploring new places, and keeping up with the latest technology trends.
 📬 Let's Connect
 ✉️ Feel free to send me an email at addyjaime@gmail.com!
 
