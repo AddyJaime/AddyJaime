@@ -2,7 +2,7 @@
 ### Hey there! 👋 I'm Addy Jaime, nice to meet you!
 
 ### 👨🏻‍💻 &nbsp;About Me
-🌟 Freelance Mobile and Web Developer with experience building solutions for iOS and Android platforms using modern technologies.
+🌟 Front-end and Full Stack Enginner with experience building solutions for iOS and Android platforms using modern technologies.
 
 💡 Passionate about creating innovative software solutions, exploring new technologies, and developing practical tools for real-world problems.
 
