@@ -2,11 +2,6 @@
 ### Hey there! 👋 I'm Addy Jaime, nice to meet you!
 
 ### 👨🏻‍💻 &nbsp;About Me
-🌟 Front-end and Full Stack Enginner with experience building solutions for iOS and Android platforms using modern technologies.
-
-💡 Passionate about creating innovative software solutions, exploring new technologies, and developing practical tools for real-world problems.
-
-🎓 Currently pursuing a React Native Specialization by Meta to enhance my expertise in mobile app development. I'm also working on Milo, a cross-platform app designed to help users learn Spanish and French, inspired by my wife's language learning journey and our cat, Milo.
 
 🌱 Dedicated to improving my knowledge of UI/UX Design, Data Structures and Algorithms, and System Design to deliver efficient and user-friendly applications.
 
