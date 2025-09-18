@@ -3,9 +3,25 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 Dedicated to improving my knowledge of UI/UX Design, Data Structures and Algorithms, and System Design to deliver efficient and user-friendly applications.
+I’m an IT Operations Supervisor for the Washington, D.C. district at Alo Yoga, where I lead a team of four technicians and oversee the smooth operation of all technology across the facility. I participate in management meetings with the site director to align on daily operations, plan improvements, and address any issues that could impact productivity.
 
-🏋️‍♂️ Outside of work, I enjoy working out, exploring new places, and keeping up with the latest technology trends.
+My responsibilities cover a wide range of IT operations, including:
+
+Ensuring industrial printers and all on-site computers run at peak performance.
+
+Administering and troubleshooting Windows systems, managing updates, and ensuring network reliability.
+
+Using PowerShell for automation, maintenance, and system management.
+
+Maintaining and optimizing NeoStampa printing software.
+
+Overseeing network performance, data backups, IT security, and access control.
+
+Managing hardware and software deployments, installations, and preventive maintenance to avoid downtime.
+
+Outside of my full-time role, I’m a full-time Computer Science student and an active software developer. I focus on backend development and API design using C#, create games with Unity and C#, and work with .NET frameworks such as ASP.NET Core and Entity Framework to build robust applications. I’m also a YouTube content creator, where I share videos explaining LeetCode challenges and programming concepts.
+
+People often ask how I find the time to balance all these pursuits. The simple answer: when you truly love something, you always find a way to make it happen.
 
 ### 🛠 &nbsp;Tech Stack
 
