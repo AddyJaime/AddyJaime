@@ -19,7 +19,7 @@ Overseeing network performance, data backups, IT security, and access control.
 
 Managing hardware and software deployments, installations, and preventive maintenance to avoid downtime.
 
-Outside of my full-time role, I’m a full-time Computer Science student and an active software developer. I focus on backend development and API design using C#, create games with Unity and C#, and work with .NET frameworks such as ASP.NET Core and Entity Framework to build robust applications. I’m also a YouTube content creator, where I share videos explaining LeetCode challenges and programming concepts.
+Outside of my full-time role, I’m a full-time Computer Science student. In my free time I focus on building projects in C++, diving deeper into low-level systems. I enjoy creating games and applications from Scratch.
 
 People often ask how I find the time to balance all these pursuits. The simple answer: when you truly love something, you always find a way to make it happen.
 
