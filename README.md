@@ -1,8 +1,5 @@
   ![text alt](https://github.com/AddyJaime/AddyJaime/blob/main/assets/Addysbanner-ezgif.com-video-to-gif-converter.gif)
 ### Hey there! 👋 I'm Addy Jaime, nice to meet you!
-
-People often ask how I find the time to balance all these pursuits. The simple answer: when you truly love something, you always find a way to make it happen.
-
 |                                                                                                        |                            |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
